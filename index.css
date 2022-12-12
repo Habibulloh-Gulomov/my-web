@@ -1,0 +1,30 @@
+body{
+  font-family:sans-serif;
+}
+
+.container{
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.top{
+  display: flex;
+  justify-content: space-around;
+  width: 600px;
+  margin: 0 auto;
+}
+
+.name{
+  font-size: 20px;
+  margin: 45px 20px 0;
+  font-weight: 800;
+}
+
+.img{
+  width: 200px;
+  height: 200px;
+}
+
+.title{
+  text-align: center;
+}
